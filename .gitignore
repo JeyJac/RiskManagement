@@ -40,3 +40,5 @@ env/
 
 # auto generated wildcard
 app/.env
+# auto generated wildcard
+db/data/.env
