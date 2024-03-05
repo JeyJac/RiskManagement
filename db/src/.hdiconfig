@@ -3,9 +3,7 @@
     "csv": {
       "plugin_name": "com.sap.hana.di.tabledata.source"
     },
-    "hdbafllangprocedure": {
-      "plugin_name": "com.sap.hana.di.afllangprocedure"
-    },
+
     "hdbanalyticprivilege": {
       "plugin_name": "com.sap.hana.di.analyticprivilege"
     },
@@ -105,9 +103,7 @@
     "hdbvirtualfunctionconfig": {
       "plugin_name": "com.sap.hana.di.virtualfunction.config"
     },
-    "hdbvirtualpackagehadoop": {
-      "plugin_name": "com.sap.hana.di.virtualpackage.hadoop"
-    },
+
     "hdbvirtualpackagesparksql": {
       "plugin_name": "com.sap.hana.di.virtualpackage.sparksql"
     },
